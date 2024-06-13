@@ -4,6 +4,7 @@
 #include <vector>
 #include <string>
 #include <stdexcept>
+#include <cstdint>
 
 namespace gdcrypto::base64
 {
